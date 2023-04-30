@@ -9,7 +9,7 @@ This involved removing duplicates, correcting errors, and formatting the data in
 
 Data Processing :
 After cleaning the data, the next step was to process the data and prepare it for analysis.
-This involved combining data from multiple sheets, calculating key metrics such as revenue and profit, and creating pivot tables and charts to visualize the data.
+This involved combining data from multiple sheets, calculating key metrics such as sales and orders, and creating pivot tables and charts to visualize the data.
 
 Data Analysis :
 The final step in this project was to analyze the data and draw insights from it.
